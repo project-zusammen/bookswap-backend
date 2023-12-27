@@ -1,0 +1,4 @@
+1. benerin raise error register ok
+benerin format email saat register
+hash password
+login api
